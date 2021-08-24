@@ -21,11 +21,9 @@
 title: Cole Ogden's Awesome Blog
 email: anon@...
 description: >- # this means to ignore newlines until "baseurl:"
-Welcome to my blog. I've built this to exercise some new skills I'm developing,
-to share some of my work (a port-o-folio ;)), and to think about new projects.
-Connect, like, share, do you boo boo
-
-  
+  Welcome to my blog. I've built this to exercise some new skills I'm developing,
+  to share some of my work (a port-o-folio ;)), and to think about new projects.
+  Connect, like, share, do you boo boo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cogden14
